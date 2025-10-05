@@ -32,5 +32,5 @@ Millions of Indians overpay for everyday commodities due to lack of price transp
 
 **Infrastructure:**
 - Docker
-- AWS EC2 / Railway
+- AWS EC2 
 - GitHub Actions (CI/CD)
