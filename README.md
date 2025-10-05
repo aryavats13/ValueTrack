@@ -1,4 +1,4 @@
-# PricePulse
+# VALUETRACK
 
 An AI-powered price tracking and prediction platform for Indian commodities. Track real-time prices of gold, petrol, vegetables, and get intelligent predictions on price trends.
 
